@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://avavyes.github.io/donate.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://avavyes.github.io/2022/10/07/2022.10.7/</loc>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://avavyes.github.io/2022/11/14/2022.10.15%20-%2010/</loc>
     
     <lastmod>2022-11-15</lastmod>
@@ -137,27 +155,9 @@
   </url>
   
   <url>
-    <loc>https://avavyes.github.io/2022/10/07/2022.10.7/</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://avavyes.github.io/archive.html</loc>
     
     <lastmod>2022-11-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://avavyes.github.io/donate.html</loc>
-    
-    <lastmod>2022-10-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
