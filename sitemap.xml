@@ -180,20 +180,6 @@
   </url>
   
   <url>
-    <loc>https://avavyes.github.io/tags/%E9%BE%99%E9%AA%91%E5%A3%AB07/</loc>
-    <lastmod>2022-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://avavyes.github.io/tags/key/</loc>
-    <lastmod>2022-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://avavyes.github.io/tags/UGUISU-KAGURA/</loc>
     <lastmod>2022-11-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -208,7 +194,35 @@
   </url>
   
   <url>
+    <loc>https://avavyes.github.io/tags/%E9%BE%99%E9%AA%91%E5%A3%AB07/</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://avavyes.github.io/tags/key/</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://avavyes.github.io/tags/GLOVETY/</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://avavyes.github.io/tags/%E6%9F%9A%E5%AD%90%E7%A4%BE/</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://avavyes.github.io/tags/Saga-PLANETS/</loc>
     <lastmod>2022-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -228,31 +242,17 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://avavyes.github.io/tags/Saga-PLANETS/</loc>
-    <lastmod>2022-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://avavyes.github.io/tags/%E6%9F%9A%E5%AD%90%E7%A4%BE/</loc>
-    <lastmod>2022-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://avavyes.github.io/categories/Diary/</loc>
+    <loc>https://avavyes.github.io/categories/galgame/</loc>
     <lastmod>2022-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://avavyes.github.io/categories/galgame/</loc>
+    <loc>https://avavyes.github.io/categories/Diary/</loc>
     <lastmod>2022-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
