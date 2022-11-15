@@ -4,7 +4,7 @@
   <url>
     <loc>https://avavyes.github.io/2022/11/14/2022.10.15%20-%2010/</loc>
     
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
   <url>
     <loc>https://avavyes.github.io/2022/11/14/2022.10.15%20-%209/</loc>
     
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,7 @@
   <url>
     <loc>https://avavyes.github.io/2022/11/14/2022.10.15%20-%208/</loc>
     
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +31,7 @@
   <url>
     <loc>https://avavyes.github.io/2022/11/14/2022.10.15%20%20-7/</loc>
     
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,16 +40,16 @@
   <url>
     <loc>https://avavyes.github.io/2022/11/14/2022.10.15%20-%206/</loc>
     
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://avavyes.github.io/archive.html</loc>
+    <loc>https://avavyes.github.io/2022/11/14/2022.10.15%20-%205/</loc>
     
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +58,7 @@
   <url>
     <loc>https://avavyes.github.io/2022/11/14/2022.10.15%20-%204/</loc>
     
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,7 +67,7 @@
   <url>
     <loc>https://avavyes.github.io/2022/11/14/2022.10.15%20-%203/</loc>
     
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,7 +76,7 @@
   <url>
     <loc>https://avavyes.github.io/2022/11/14/2022.10.15%20-%202/</loc>
     
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -85,7 +85,7 @@
   <url>
     <loc>https://avavyes.github.io/2022/11/14/2022.10.15%20-%201/</loc>
     
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -94,7 +94,7 @@
   <url>
     <loc>https://avavyes.github.io/2022/10/14/2022.10.14/</loc>
     
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -103,7 +103,7 @@
   <url>
     <loc>https://avavyes.github.io/2022/10/10/2022.10.10/</loc>
     
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -112,7 +112,7 @@
   <url>
     <loc>https://avavyes.github.io/2022/10/09/2022.10.9/</loc>
     
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -121,7 +121,16 @@
   <url>
     <loc>https://avavyes.github.io/2022/10/08/2022.10.8/</loc>
     
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://avavyes.github.io/guidang.html</loc>
+    
+    <lastmod>2022-11-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -130,14 +139,14 @@
   <url>
     <loc>https://avavyes.github.io/2022/10/07/2022.10.7/</loc>
     
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://avavyes.github.io/2022/11/14/2022.10.15%20-%205/</loc>
+    <loc>https://avavyes.github.io/archive.html</loc>
     
     <lastmod>2022-11-14</lastmod>
     
@@ -157,12 +166,96 @@
 
   <url>
     <loc>https://avavyes.github.io/</loc>
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://avavyes.github.io/tags/%E6%96%B0%E5%B2%9B%E8%A5%BF/</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://avavyes.github.io/tags/UGUISU-KAGURA/</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://avavyes.github.io/tags/Diary/</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://avavyes.github.io/tags/%E9%BE%99%E9%AA%91%E5%A3%AB07/</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://avavyes.github.io/tags/key/</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://avavyes.github.io/tags/GLOVETY/</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://avavyes.github.io/tags/%E6%9F%9A%E5%AD%90%E7%A4%BE/</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://avavyes.github.io/tags/SCA-%E8%87%AA/</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://avavyes.github.io/tags/%E6%9E%95%E7%A4%BE/</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://avavyes.github.io/tags/Saga-PLANETS/</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://avavyes.github.io/categories/galgame/</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://avavyes.github.io/categories/Diary/</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
