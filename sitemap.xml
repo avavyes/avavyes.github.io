@@ -173,20 +173,6 @@
 
   
   <url>
-    <loc>https://avavyes.github.io/tags/%E6%96%B0%E5%B2%9B%E8%A5%BF/</loc>
-    <lastmod>2022-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://avavyes.github.io/tags/UGUISU-KAGURA/</loc>
-    <lastmod>2022-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://avavyes.github.io/tags/Diary/</loc>
     <lastmod>2022-11-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -208,14 +194,21 @@
   </url>
   
   <url>
-    <loc>https://avavyes.github.io/tags/GLOVETY/</loc>
+    <loc>https://avavyes.github.io/tags/UGUISU-KAGURA/</loc>
     <lastmod>2022-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://avavyes.github.io/tags/%E6%9F%9A%E5%AD%90%E7%A4%BE/</loc>
+    <loc>https://avavyes.github.io/tags/%E6%96%B0%E5%B2%9B%E8%A5%BF/</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://avavyes.github.io/tags/GLOVETY/</loc>
     <lastmod>2022-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -242,17 +235,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://avavyes.github.io/tags/%E6%9F%9A%E5%AD%90%E7%A4%BE/</loc>
+    <lastmod>2022-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://avavyes.github.io/categories/galgame/</loc>
+    <loc>https://avavyes.github.io/categories/Diary/</loc>
     <lastmod>2022-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://avavyes.github.io/categories/Diary/</loc>
+    <loc>https://avavyes.github.io/categories/galgame/</loc>
     <lastmod>2022-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
